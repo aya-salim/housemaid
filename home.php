@@ -105,7 +105,7 @@
 			
 </form>
             <div class = 'head-bottom flex'>
-                <h2>Housemaid OM</h2>
+                <h2>House Cleaaning Services Booking Platform</h2>
                 <p>Find trusted, professional housemaids easily.</p>
                 <p>Browse available maids, check their profiles, and hire the perfect help for your home.</p>
                 <p>Fast, simple, and reliable — your comfort is just one click away!</p>
